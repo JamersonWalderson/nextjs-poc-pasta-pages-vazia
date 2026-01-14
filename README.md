@@ -1,1 +1,0 @@
-# nextjs-poc-pasta-pages-vazia
